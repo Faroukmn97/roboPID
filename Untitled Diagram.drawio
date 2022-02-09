@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T22:37:20.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="gORZnN1yyCOcQteyfxVm" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-09T22:38:06.005Z" agent="5.0 (Windows)" etag="vCX1OXbEG5hGFNfMaw2F" version="16.5.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -39,7 +39,7 @@
         <mxCell id="5BcaOqx7kz7zb052mj5V-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5BcaOqx7kz7zb052mj5V-15" target="5BcaOqx7kz7zb052mj5V-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5BcaOqx7kz7zb052mj5V-15" value="Kd = f(x)" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="5BcaOqx7kz7zb052mj5V-15" value="Ka = f(x)" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="385" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5BcaOqx7kz7zb052mj5V-18" value="(Presente)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
@@ -66,7 +66,7 @@
         <mxCell id="5BcaOqx7kz7zb052mj5V-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5BcaOqx7kz7zb052mj5V-24" target="5BcaOqx7kz7zb052mj5V-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5BcaOqx7kz7zb052mj5V-24" value="x = Kp + Ki + Kd" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="5BcaOqx7kz7zb052mj5V-24" value="x = Kp + Ki + Ka" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="385" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5BcaOqx7kz7zb052mj5V-29" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5BcaOqx7kz7zb052mj5V-26" target="5BcaOqx7kz7zb052mj5V-28" edge="1">
